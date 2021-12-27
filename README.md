@@ -1,12 +1,12 @@
 # vite-mon-vote-prediction
 
-## ℹ About the projet :
+## About the projet :
 This project aims to study the opinion of the population of Grand Nancy (France) on a few specific questions. This study is part of a student project allowing to visualize a project proposed by the city.
 This study makes it possible to feed the software for the thesis with real data.
 
 This document will help me to put the data pipeline into production for the new software. Indeed, all the parts will be reused except the data visualization part.
 
-## ℹ About the data:
+## About the data:
 
 Several pieces of information are necessary to take into account to understand the data set. 
 
