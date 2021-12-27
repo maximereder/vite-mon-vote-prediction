@@ -9,4 +9,6 @@ We can **predict people opinion** with different precisions:
     *   [1 - 3] : People generally disagree.
     *   [4 - 6] : People generally agree.
 
+493 people responded to the survey.
+
 ![responses](responses.png)
