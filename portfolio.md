@@ -8,3 +8,5 @@ We can **predict people opinion** with different precisions:
 *   **Low**: 
     *   [1 - 3] : People generally disagree.
     *   [4 - 6] : People generally agree.
+
+![responses](responses.png)
