@@ -33,7 +33,7 @@ Predicting if people are **agree to make Grand Nancy much greener** (First quest
 | adaboostclassifier  | 0.20          |
 | gradientboostingclassifier  | 0.54          |
 
-As you can see, the results are quite low. As you can see, the results are quite low. To overcome this problem, we decided to make the answers of each person less precise in order to **reduce the risk of error** in the model.
+As you can see, the results are quite low. To overcome this problem, we decided to make the answers of each person less precise in order to **reduce the risk of error** in the model.
 In this way, an elected official of the town hall could choose a compromise between the precision of the answers and that of the model.
 
 We can **predict people opinion** with different precisions: 
